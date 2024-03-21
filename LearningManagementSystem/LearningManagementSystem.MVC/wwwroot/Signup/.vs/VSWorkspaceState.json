@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\libs\\bootstrap",
+    "\\assets\\libs\\jquery",
+    "\\css",
+    "\\fonts",
+    "\\scss",
+    "\\scss\\layouts",
+    "\\vendor",
+    "\\vendor\\jquery"
+  ],
+  "PreviewInSolutionExplorer": false
+}

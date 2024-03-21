@@ -1,0 +1,56 @@
+﻿@model IEnumerable<LearningManagementSystem.MVC.Models.CourseEnrollmentDetails>
+
+@{
+    ViewData["Title"] = "GetEnrolledCoursesWithStatus";
+    Layout = "~/Views/Shared/DashboardBody.cshtml";
+}
+
+
+
+    @if (Model != null)
+    {
+    <section class="section section-top section-full bg-white" style="padding-bottom:500px">
+        <br />
+        <br />
+        <h4 style="text-align:center">Enrolled Courses</h4>
+        <br />
+        <br />
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Course Name
+                    </th>
+                    <th>
+                        Course Status
+                    </th>
+                    <th>
+                        Test Status
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CourseName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CourseStatus)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TestStatus)
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        </section>
+            }
+            else
+            {
+            <h3 style="text-align:center">@ViewBag.Error</h3>
+            }

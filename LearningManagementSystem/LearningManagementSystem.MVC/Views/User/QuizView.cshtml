@@ -1,0 +1,178 @@
+﻿@model LearningManagementSystem.MVC.Models.QuizClass
+
+@{
+    ViewData["Title"] = "QuizView";
+    Layout = "~/Views/Shared/DashboardBody.cshtml";
+}
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="Styles.css" />
+    <link rel="stylesheet " href=" https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href=" https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" />
+    <link rel="stylesheet" href="    https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<style>
+    body {
+        background-color: #eee
+    }
+
+    label.radio {
+        cursor: pointer
+    }
+
+        label.radio input {
+            position: absolute;
+            top: 0;
+            left: 0;
+            visibility: hidden;
+            pointer-events: none
+        }
+
+        label.radio span {
+            padding: 4px 0px;
+            border: 1px solid red;
+            display: inline-block;
+            color: red;
+            width: 100px;
+            text-align: center;
+            border-radius: 3px;
+            margin-top: 7px;
+            text-transform: uppercase
+        }
+
+        label.radio input:checked + span {
+            border-color: red;
+            background-color: red;
+            color: #fff
+        }
+
+    .ans {
+        margin-left: 36px !important
+    }
+
+    .btn:focus {
+        outline: 0 !important;
+        box-shadow: none !important
+    }
+
+    .btn:active {
+        outline: 0 !important;
+        box-shadow: none !important
+    }
+</style>
+
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <form asp-action="QuizResult" asp-controller="User" method="post">
+        <div class="container mt-5">
+            <div class="d-flex justify-content-center row">
+                <div class="col-md-10 col-lg-10">
+                    <div class="border">
+                        <div class="question bg-white p-3 border-bottom">
+                            <div class="d-flex flex-row justify-content-between align-items-center mcq">
+                                <h4>@Model.QuizName Quiz</h4><span>(@Model.QNo of 5)</span>
+                            </div>
+                        </div>
+                        <div class="question bg-white p-3 border-bottom">
+                            <div class="d-flex flex-row align-items-center question-title">
+                                <h3 class="text-danger">Q.</h3>
+                                <h5 class="mt-1 ml-2">@Model.Question</h5>
+                            </div>
+                            <div class="ans ml-2">
+                                <label class="radio">
+                                    <input type="radio" asp-for="UserOption" value='@Model.Option_1'> <span>@Model.Option_1</span>
+                                </label>
+                            </div>
+                            <div class="ans ml-2">
+                                <label class="radio">
+                                    <input type="radio" asp-for="UserOption" value='@Model.Option_2'> <span>@Model.Option_2</span>
+                                </label>
+                            </div>
+                            <div class="ans ml-2">
+                                <label class="radio">
+                                    <input type="radio" asp-for="UserOption" value='@Model.Option_3'> <span>@Model.Option_3</span>
+                                </label>
+                            </div>
+                            <div class="ans ml-2">
+                                <label class="radio">
+                                    <input type="radio" asp-for="UserOption" value='@Model.Option_4'> <span>@Model.Option_4</span>
+                                </label>
+                            </div>
+                            <div hidden>
+                                <input asp-for="Answer" />
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row justify-content-between align-items-center p-3 bg-white">
+                            <!--<button class="btn btn-primary d-flex align-items-center btn-danger" type="button"><i class="fa fa-angle-left mt-1 mr-1"></i>&nbsp;previous</button>-->
+                            <button class="btn btn-primary border-success align-items-center btn-success" type="submit">Submit<i class="fa fa-arrow-circle-right ml-2"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+@*<form action="QuizResult" method="post">
+    <div>
+        <label>@Model.QNo @Model.Question</label>
+    </div>
+
+    <div id='block-11' style='padding: 10px;'>
+        <label for='option-11' style=' padding: 5px; font-size: 2.5rem;'>
+            <input type='radio' asp-for="UserOption" value='@Model.Option_1' id='option-11' style='transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;' />
+            @Model.Option_1
+        </label>
+        <span id='result-11'></span>
+    </div>
+    <hr />
+
+    <div id='block-12' style='padding: 10px;'>
+        <label for='option-12' style=' padding: 5px; font-size: 2.5rem;'>
+            <input type='radio' asp-for="UserOption" value='@Model.Option_2' id='option-12' style='transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;' />
+            @Model.Option_2
+        </label>
+        <span id='result-12'></span>
+    </div>
+    <hr />
+    <div id='block-12' style='padding: 10px;'>
+        <label for='option-12' style=' padding: 5px; font-size: 2.5rem;'>
+            <input type='radio' asp-for="UserOption" value='@Model.Option_3' id='option-12' style='transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;' />
+            @Model.Option_3
+        </label>
+        <span id='result-12'></span>
+    </div>
+    <hr />
+    <div id='block-12' style='padding: 10px;'>
+        <label for='option-12' style=' padding: 5px; font-size: 2.5rem;'>
+            <input type='radio' asp-for="UserOption" value='@Model.Option_4' id='option-12' style='transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;' />
+            @Model.Option_4
+        </label>
+    </div>
+    <div hidden>
+        <input asp-for="Answer" />
+    </div>
+    <div>
+        <input type="submit" value="Confirm" />
+    </div>
+    <hr />
+</form>*@
+
+

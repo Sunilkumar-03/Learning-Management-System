@@ -1,0 +1,1042 @@
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LearningManagementSystem_Sprint - 2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Downloads\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+F:\Sprint2\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+F:\Sprint2LMSRepository\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+F:\Sprint2_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LMS - IV\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LMS - VI\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LMS Final AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint_2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Sprint2AzureRepo\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Azure\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\Revanth\source\LMS Final - II AZURE\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Original\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csprojAssemblyReference.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CopyComplete
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Sprint2_Final\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\appsettings.json
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.StaticWebAssets.xml
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.exe
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.deps.json
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.json
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.runtimeconfig.dev.json
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.AssemblyReference.cache
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.AssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.sourcelink.json
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.API.styles.css
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Manifest.cache
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.API.StaticWebAssets.Pack.cache
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\msbuild.LearningManagementSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\msbuild.build.LearningManagementSystem.API.props
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LearningManagementSystem.API.props
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LearningManagementSystem.API.props
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\Learning.F2667718.Up2Date
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\refint\LearningManagementSystem.API.dll
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.pdb
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\LearningManagementSystem.API.genruntimeconfig.cache
+C:\Users\sanib\Documents\.Net Framework\Projects\Learning Management System\LearningManagementSystem\LearningManagementSystem_API\obj\Debug\net5.0\ref\LearningManagementSystem.API.dll

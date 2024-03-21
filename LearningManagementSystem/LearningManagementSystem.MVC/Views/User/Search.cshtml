@@ -1,0 +1,207 @@
+﻿@model IEnumerable<LearningManagementSystem.MVC.Models.Course>
+@{
+    ViewData["Title"] = "Search";
+    Layout = "~/Views/Shared/DashboardBody.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="~/Table/css/app-dark.css" />
+    <link rel="stylesheet" href="~/Table/css/app-dark.min.css" />
+    <link rel="stylesheet" href="~/Table/css/app-dark.min.css.map" />
+    <link rel="stylesheet" href="~/Table/css/app.css" />
+    <link rel="stylesheet" href="~/Table/css/app.min.css" />
+    <link rel="stylesheet" href="~/Table/css/app.min.css.map" />
+    <link rel="stylesheet" href="~/Table/css/fontawesome-all.min.css" />
+    <link rel="stylesheet" href="~/Table/css/icons.css" />
+    <link rel="stylesheet" href="~/Table/css/icons.min.css" />
+    <link rel="stylesheet" href="~/Table/css/icons.min.css.map" />
+    <link rel="stylesheet" href="~/Table/css/main.css" />
+    <link href="~/Layout/lib/flag-icon-css/css/flag-icon.min.css" rel="stylesheet">
+    <link href="~/Layout/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/Layout/lib/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <style>
+        .input-group {
+            width: 240px !important;
+            margin-left: 31px !important;
+            margin-top: 25px !important;
+        }
+
+        .form-control {
+            display: block !important;
+            line-height: 2 !important;
+            color: #495057 !important;
+            background-clip: padding-box !important;
+            border-radius: 0rem !important;
+            transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out !important;
+        }
+
+        #t1 {
+            text-decoration-color: #495134 !important;
+        }
+
+        #b1 {
+            color: #B2B2B2 !important;
+        }
+
+        .btn:hover {
+            color: #2d1967 !important;
+        }
+    </style>
+</head>
+<div class="row ">
+    <div class="col-xl-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="page-title">
+                    <i class="nav-icon icon-book-open"></i> Courses
+                </h4>
+            </div> <!-- end card body-->
+        </div> <!-- end card -->
+    </div><!-- end col-->
+</div>
+<form asp-action="Search" asp-controller="User" method="post">
+    <div class="input-group search-box mobile-search">
+        <input id="t1" type="text" name='SearchValue' class="form-control" placeholder="Enter Course Name">
+        <div class="input-group-append">
+            <button id="b1" class="btn btn-primary" type="submit"><i class="nav-icon icon-magnifier"></i></button>
+        </div>
+    </div>
+</form>
+<br />
+<div>
+    <span style="color:red" class="text-danger ">@ViewBag.Empty</span>
+</div>
+<br />
+<br />
+
+@if (Model != null)
+{
+    <div class="row">
+        <div class="col-xl-12">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="mb-3 header-title" style="color:#2d1967 !important">Search Result</h4>
+                    <div class="table-responsive-sm mt-4">
+                        <table id="basic-datatable" class="table table-striped table-centered mb-0">
+                            <thead>
+                                <tr>
+                                    <th> @Html.DisplayNameFor(model => model.CourseName)</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.CourseName)
+                                        </td>
+                                        <td>
+                                            <a asp-action="ViewEnroll" asp-route-Id="@item.CourseID">View</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div> <!-- end card body-->
+            </div> <!-- end card -->
+        </div><!-- end col-->
+    </div>
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<script>
+    $(document).ready(function () {
+        $('#btnsrch').click(function () {
+            let searchName = $('#Svalue').val();
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:14521/api/User/SearchCourse/" + searchName,
+                contentType: 'application/json',
+                success: function (response) {
+                    $.each(response, function (i, item) {
+                        console.log(response);
+                        let row = '<tr><td>' + item.courseName + '</td><td><a asp-action=CourseDetails asp-route-Id=' + item.CourseID + '>View</a></td></tr>'
+                        $('#list').append(row);
+                    });
+                },
+                error: function (xhr) {
+                    alert('Error Occured')
+                }
+            })
+        });
+    });
+</script>
+
+
+
+<form>
+    <input type="text" name="SearchValue" id="Svalue" placeholder="Seacrh"/>
+    <input type="button" value="Search" class="btn btn-primary" id="btnsrch" />
+</form>
+
+<table class="table" id="list">
+    <thead>
+        <tr>
+            <th>
+                Course Name
+            </th>
+            <th>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+</table>-->
+@*@foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile)
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-uname="@item.Username">Edit</a> |
+                <a asp-action="Details" asp-route-uname="@item.Username">Details</a> |
+                <a asp-action="Delete" asp-route-uname="@item.Username">Delete</a>
+            </td>
+        </tr>
+    }*@

@@ -1,0 +1,135 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SignIn</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="~/Signup/fonts/material-icon/css/material-design-iconic-font.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="~/Signup/css/style.css">
+    <link href="~/Signup/css/style2.css" rel="stylesheet">
+    <!-- Fontawseom Icon CSS -->
+    <link rel="stylesheet" href="~/Signup/assets/css/all.css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="~/Signup/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Signup/assets/css/style.css">
+    <link rel="stylesheet" href="~/Signup/assets/css/responsive.css">
+
+    <script src="~/Signup/js/main.js"></script>
+    <script src="~/Signup/vendor/jquery/jquery.min.js"></script>
+    <style>
+
+        #c1 {
+            max-width: 1600px;
+            width: 1500px;
+            height: 700px;
+            margin-top: 0px
+        }
+
+        #c2 {
+            padding: 0px;
+            border-radius: 0px;
+        }
+    </style>
+
+
+</head>
+<body>
+    <!-- NAVBAR
+    ================================================= -->
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-togglable  fixed-top " id="mainNav">
+        <div class="container">
+
+            <!-- Brand -->
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <h2 style=" color: #20a8d8">Learning Management System</h2>
+            </a>
+
+            <!-- Toggler -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon-bar">
+                    <i class="fa fa-bars"></i>
+                </span>
+            </button>
+
+            <!-- Collapse -->
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <!-- Links -->
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a style="color:#20a8d8" asp-action="HomePage" asp-controller="Home" class=" nav-link js-scroll-trigger">
+                            Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a style="color:#20a8d8" asp-action="Login" asp-controller="User" class=" nav-link js-scroll-trigger">
+                            Login
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a style="color:#20a8d8" asp-action="Register" asp-controller="User" class="nav-link js-scroll-trigger">
+                            Register
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+            <!-- / .navbar-collapse -->
+        </div>
+        <!-- / .container -->
+    </nav>
+
+    <div class="main" id="c2">
+
+        <!-- Sign up form -->
+        <!-- Sing in  Form -->
+        <section class="sign-in">
+            <div class="container" id="c1">
+                <div class="signin-content" style="padding-top:147px">
+                    <div class="signin-image">
+                        <figure><img src="~/Signup/images/signin-image.jpg" alt="sing up image"></figure>
+
+                    </div>
+
+                    <div class="signin-form">
+                        <div>
+
+                            <form action="Login" method="post" class="user-form" id="user-form" style="display:block" role="form">
+                                <div class="form-group">
+                                    <label for="your_name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                                    <input type="text" name="Id" placeholder="Enter Email" />
+                                </div>
+                                <div class="form-group">
+                                    <label for="your_pass"><i class="zmdi zmdi-lock"></i></label>
+                                    <input type="password" name="Password" placeholder=" Enter Password" />
+                                </div>
+                                <div class="form-group">
+                                    <span class="text-danger">@ViewBag.Error</span>
+                                </div>
+                                <div class="form-group form-button">
+                                    <input type="submit" class="form-submit" value="Log in" />
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- JS -->
+    <script src="~/Signup/vendor/jquery/jquery.min.js"></script>
+
+</body>
+</html>

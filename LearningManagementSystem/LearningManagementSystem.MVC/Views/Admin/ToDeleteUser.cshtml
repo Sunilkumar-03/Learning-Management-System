@@ -1,0 +1,73 @@
+﻿@model LearningManagementSystem.MVC.Models.User
+
+@{
+    ViewData["Title"] = "ToDeleteUser";
+    Layout = "~/Views/Shared/AdminDashboardBody.cshtml";
+}
+
+<form asp-action="DeleteUser" asp-controller="Admin" method="post">
+    <br />
+    <br />
+    <b>Enter Id To Search :</b>
+    <br />
+    <br />
+    <input type="text" name="id" id="SearchUser" placeholder="Enter UserId" />&nbsp;&nbsp;
+    <input type="submit" value="Search" name="id" class="btn btn-danger" />
+    <span class="text-danger">@ViewBag.ErrorMessage</span>
+</form>
+@{
+    var data = TempData["Error"];
+}
+
+
+@if (data != null)
+{
+<div>
+    <br />
+    <br />
+    <h5>User Details</h5>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserID)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserID)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserAddress)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserAddress)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+    </dl>
+</div>
+    <div id="deleteLink">
+        @Html.ActionLink("Delete", "ConfirmDelete", new { id = Model.UserID }) 
+    </div>
+}
+

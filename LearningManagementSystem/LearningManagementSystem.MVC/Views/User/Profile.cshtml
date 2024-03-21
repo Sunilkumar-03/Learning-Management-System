@@ -1,0 +1,104 @@
+﻿@model LearningManagementSystem.MVC.Models.User
+
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/DashboardBody.cshtml";
+}
+
+
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="~/frontend/default/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/frontend/default/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/frontend/default/css/bootstrap-tagsinput.css">
+    <link rel="stylesheet" href="~/frontend/default/css/main.css">
+    <link rel="stylesheet" href="~/frontend/default/css/responsive.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="~/global/toastr/toastr.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nestable2/1.6.0/jquery.nestable.min.css" />
+</head>
+<body>
+    <section class="user-dashboard-area">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="user-dashboard-box">
+                        <!--<div class="user-dashboard-sidebar">-->
+                        <!--<div class="user-box">
+                            <img src="http://localhost/Online_Learning_Management_System/uploads/user_image/2.jpg" alt="" class="img-fluid">
+                            <div class="name">
+                                <div class="name">Abhi Telu</div>
+                            </div>
+                        </div>
+                        <div class="user-dashboard-menu">
+                            <ul>
+                                <li class="active"><a href="http://localhost/Online_Learning_Management_System/home/profile/user_profile">Profile</a></li>
+                                <li><a href="http://localhost/Online_Learning_Management_System/home/profile/user_credentials">Account</a></li>
+                                <li><a href="http://localhost/Online_Learning_Management_System/home/profile/user_photo">Photo</a></li>
+                            </ul>
+                        </div>-->
+                        <!--</div>-->
+                        <div class="user-dashboard-content">
+                            <div class="content-title-box">
+                                <div class="title">Profile</div>
+                                <div class="subtitle">Add Information About Yourself.</div>
+                            </div>
+                            <form action="UpdateProfile" method="post">
+                                <div class="content-box">
+                                    <div class="basic-group">
+                                        <div class="form-group" hidden>
+                                            <label asp-for="UserID" class="control-label"></label>
+                                            <input asp-for="UserID" class="form-control" />
+                                            <span asp-validation-for="UserID" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="FristName">Name :</label>
+                                            <input asp-for="UserName" class="form-control" readonly />
+                                            <span asp-validation-for="UserName" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <label asp-for="Password" class="control-label"></label>
+                                            <input asp-for="Password" class="form-control" />
+                                            <span asp-validation-for="Password" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <label asp-for="Email" class="control-label"></label>
+                                            <input asp-for="Email" class="form-control" readonly/>
+                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <label asp-for="UserAddress" class="control-label"></label>
+                                            <input asp-for="UserAddress" class="form-control" />
+                                            <span asp-validation-for="UserAddress" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <label asp-for="PhoneNumber" class="control-label"></label>
+                                            <input asp-for="PhoneNumber" class="form-control" />
+                                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="content-update-box">
+                                    <button type="submit" class="btn">Save</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+
+
+
+
+
+
+

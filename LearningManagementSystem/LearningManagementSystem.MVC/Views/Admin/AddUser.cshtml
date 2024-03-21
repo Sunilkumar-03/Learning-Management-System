@@ -1,0 +1,131 @@
+﻿@model LearningManagementSystem.MVC.Models.User
+
+@{
+    ViewData["Title"] = "AddUser";
+    Layout = "~/Views/Shared/AdminDashboardBody.cshtml";
+}
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <!-- font awesome 5 -->
+    <link rel="stylesheet" href="~/frontend/default/css/fontawesome-all.min.css">
+    @*<link rel="stylesheet" href="~/frontend/default/css/bootstrap.min.css" />*@
+    <link rel="stylesheet" href="~/frontend/default/css/bootstrap-tagsinput.css">
+    <link rel="stylesheet" href="~/frontend/default/css/main.css"/>
+    
+
+
+    <link rel="stylesheet" href="assets/frontend/default/css/responsive.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="assets/global/toastr/toastr.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nestable2/1.6.0/jquery.nestable.min.css" />
+    <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+    <script src="assets/backend/js/jquery-3.3.1.min.js"></script>
+    <style>
+        .tab-content > .tab-pane {
+            display: block !important;
+        }
+
+        .tab-content > .active {
+            display: block !important;
+        }
+
+        .col-xl-8 {
+            font-family: nunito !important;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="row ">
+        <div class="col-xl-12">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="page-title">
+                        <i class="nav-icon icon-plus"></i> Add User
+                    </h4>
+                </div> <!-- end card body-->
+            </div> <!-- end card -->
+        </div><!-- end col-->
+    </div>
+    <form class="my-form" asp-action="AddUser" method="post">
+        <div id="basicwizard">
+            <div class="tab-content b-0 mb-0">
+                <div class="tab-pane" id="2">
+                    <div class="row justify-content-center">
+                        <div class="col-xl-8" style="padding-top:80px!important">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                            @* Username *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="UserName">Username <span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input type="text" class="form-control" asp-for="UserName" placeholder="Enter Username" />
+                                    <span asp-validation-for="UserName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            @* Email *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="Email">Email<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input type="email" class="form-control" asp-for="Email"  placeholder="Enter Email" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            @* Password *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="Password">Password<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input type="password" class="form-control" asp-for="Password"  placeholder="Enter Password" />
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            @* User Address *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="UserAddress">Address<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input type="text" class="form-control" asp-for="UserAddress" placeholder="Enter Address" />
+                                    <span asp-validation-for="UserAddress" class="text-danger"></span>
+                                </div>
+                            </div>
+
+
+                            @* Phone Number *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="PhoneNumber">Phone Number<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input type="number" class="form-control" asp-for="PhoneNumber"  placeholder="Enter Phone Number" />
+                                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="tab-pane" id="finish">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="text-center">
+                                            <div class="mb-3 mt-3">
+                                                <input type="submit" class="btn btn-primary " value="Create">
+                                            </div>
+                                            <div class="mb-3 mt-3">
+                                                <span style="color:red"><b>@ViewBag.Message</b></span>
+                                            </div>
+                                        </div>
+                                    </div> <!-- end col -->
+                                </div> <!-- end col -->
+                            </div> <!-- end row -->
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+

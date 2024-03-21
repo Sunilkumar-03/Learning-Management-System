@@ -1,0 +1,133 @@
+﻿@model IEnumerable<LearningManagementSystem.MVC.Models.Course>
+
+@{
+    ViewData["Title"] = "UserHomePage";
+    Layout = "~/Views/Shared/DashboardBody.cshtml";
+}
+
+<style>
+    .portfolio-block {
+        position: relative;
+        text-align: center;
+        -webkit-box-shadow: 0px 0px 20px #eee;
+        box-shadow: 0px 0px 20px #eee;
+    }
+
+        .portfolio-block img {
+            margin-bottom: 15px;
+        }
+
+
+    .portfolio-content {
+        padding: 20px 0px 40px;
+    }
+
+    .work-cat {
+        color: #007bff;
+    }
+
+
+
+    .overlay-content {
+        position: absolute;
+        content: "";
+        margin-top: -15%;
+        top: 50%;
+        left: 40%;
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transition: all .3s ease-in-out;
+        -o-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+    }
+
+        .overlay-content i {
+            width: 60px;
+            height: 60px;
+            display: block;
+            background: #fff;
+            text-align: center;
+            padding-top: 22px;
+            border-radius: 100%;
+        }
+
+    .portfolio-block:before {
+        position: absolute;
+        content: "";
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transition: all .3s ease-in-out;
+        -o-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+    }
+
+    .portfolio-block:hover .overlay-content, .portfolio-block:hover:before {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .overlay-content a:focus, .overlay-content a:hover {
+        text-decoration: none;
+    }
+</style>
+
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+@if (Model != null)
+{
+
+    <section class="section bg-white" id="portfolio" style="padding-top:50px;padding-bottom:50px;padding-left:10px;">
+        <div class="container">
+            <div class="row justify-content-center mb-4">
+                <div class="col-md-8 col-lg-7 text-center">
+                    <h2 class="lg-title mb-2">
+                        Courses for Test
+                    </h2>
+                    <br />
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                @foreach (var item in Model)
+                {
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="card" style="width: 18rem;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+
+
+                            <div class="portfolio-block">
+                                <img src="~/Layout/img/@item.CourseImage" class="card-img-top" alt="@item.CourseName">
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">@item.CourseName</h5>
+                                @*<p class="card-text">Python is an interpreted high-level general-purpose programming..</p>*@
+                                <a href='@Url.Action("RedirctToTest", "User", new { Id = item.CourseID })' class="btn btn-primary">Begin Test</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+}
+else
+{
+<section class="section section-top section-full bg-white" style="padding-top:100px;padding-bottom:300px">
+    <div class="container">
+        <div class="align-items-center">
+            <div class="banner-content">
+                <h4 class="text-center mb-4 display-4 font-weight-bold">
+                    No Quiz Available to Attempt
+                </h4>
+                <h4 class="text-center">
+                    Enroll and Complete the Course
+                </h4>
+            </div>
+        </div>
+    </div>
+</section>
+}
+
+

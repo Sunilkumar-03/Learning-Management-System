@@ -1,0 +1,193 @@
+﻿@model LearningManagementSystem.MVC.Models.DataView.CourseDataView
+
+@{
+    ViewData["Title"] = "AddCourse";
+    Layout = "~/Views/Shared/AdminDashboardBody.cshtml";
+}
+
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <!-- font awesome 5 -->
+    <link rel="stylesheet" href="~/frontend/default/css/fontawesome-all.min.css">
+    @*<link rel="stylesheet" href="~/frontend/default/css/bootstrap.min.css" />*@
+    <link rel="stylesheet" href="~/frontend/default/css/bootstrap-tagsinput.css">
+    <link rel="stylesheet" href="~/frontend/default/css/main.css" />
+
+
+
+    <link rel="stylesheet" href="assets/frontend/default/css/responsive.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="assets/global/toastr/toastr.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nestable2/1.6.0/jquery.nestable.min.css" />
+    <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+    <script src="assets/backend/js/jquery-3.3.1.min.js"></script>
+    <style>
+        .tab-content > .tab-pane {
+            display: block !important;
+        }
+
+        .tab-content > .active {
+            display: block !important;
+        }
+
+        .col-xl-8 {
+            font-family: nunito !important;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="row ">
+        <div class="col-xl-12">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="page-title">
+                        <i class="nav-icon icon-plus"></i> Add Course
+                    </h4>
+                </div> <!-- end card body-->
+            </div> <!-- end card -->
+        </div><!-- end col-->
+    </div>
+    <form class="my-form" asp-action="AddCourse" method="post" enctype="multipart/form-data">
+        <div id="basicwizard">
+            <div class="tab-content b-0 mb-0">
+                <div class="tab-pane" id="2">
+                    <div class="row justify-content-center">
+                        <div class="col-xl-8" style="padding-top:80px!important">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                            @* CourseName *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="CourseName">Course Name <span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input class="form-control" asp-for="CourseName" placeholder="Enter Course Name" />
+                                    <span asp-validation-for="CourseName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            @* Course Duration *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="CourseDuration">Duration<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input class="form-control" asp-for="CourseDuration" placeholder="Enter Duration" />
+                                    <span asp-validation-for="CourseDuration" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            @* Course Content *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="CourseContent">Link<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input class="form-control" asp-for="CourseContent" placeholder="Enter Course Link" />
+                                    <span asp-validation-for="CourseContent" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            @* Course Quiz *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="CourseQuiz">Quiz<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input class="form-control" asp-for="CourseQuiz" placeholder="Enter Quiz Path" />
+                                    <span asp-validation-for="CourseQuiz" class="text-danger"></span>
+                                </div>
+                            </div>
+                            @* Course Description *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="CourseDiscription">Description<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input class="form-control" asp-for="CourseDiscription" placeholder="Enter Description" />
+                                    <span asp-validation-for="CourseDiscription" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            @* Course Trainer *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="CourseTutor">Trainer's Name<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input class="form-control" asp-for="CourseTutor" placeholder="Enter Trainer's Name">
+                                    <span asp-validation-for="CourseTutor" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            @* Course Image *@
+                            <div class="form-group row mb-3">
+                                <label class="col-md-2 col-form-label" asp-for="CourseImage">Image<span class="required">*</span> </label>
+                                <div class="col-md-10">
+                                    <input class="form-control" asp-for="CourseImage">
+                                    <span asp-validation-for="CourseImage" class="text-danger"></span>
+                                </div>
+
+
+                                <div class="tab-pane" id="finish">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <div class="text-center">
+                                                <div class="mb-3 mt-3">
+                                                    <input type="submit" class="btn btn-primary " value="Create">
+                                                </div>
+                                            </div>
+                                        </div> <!-- end col -->
+                                    </div> <!-- end col -->
+                                </div> <!-- end row -->
+                            </div>
+
+                        </div>
+                </div>
+            </div>
+        </div>
+            </div>
+    </form>
+</body>
+</html>
+
+
+@*<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddCourse" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CourseName" class="control-label"></label>
+                <input asp-for="CourseName" class="form-control" />
+                <span asp-validation-for="CourseName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CourseDuration" class="control-label"></label>
+                <input asp-for="CourseDuration" class="form-control" />
+                <span asp-validation-for="CourseDuration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CourseContent" class="control-label"></label>
+                <input asp-for="CourseContent" class="form-control" />
+                <span asp-validation-for="CourseContent" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CourseQuiz" class="control-label"></label>
+                <input asp-for="CourseQuiz" class="form-control" />
+                <span asp-validation-for="CourseQuiz" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CourseTutor" class="control-label"></label>
+                <input asp-for="CourseTutor" class="form-control" />
+                <span asp-validation-for="CourseTutor" class="text-danger"></span>
+            </div>
+            <div class="form-control">
+                <label asp-for="CourseImage" class="control-label"></label>
+                <input asp-for="CourseImage" class="form-control" />
+                <span asp-validation-for="CourseImage" class="text-danger"></span>
+            </div>
+            <div class="form-control">
+                <label asp-for="CourseDiscription" class="control-label"></label>
+                <input asp-for="CourseDiscription" class="form-control" />
+                <span asp-validation-for="CourseDiscription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>*@
+

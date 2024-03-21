@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewData["Title"] = "Failed";
+    Layout = "~/Views/Shared/DashboardBody.cshtml";
+}
+
+<style>
+    .hero-bg {
+        background-color: #ffffff;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+</style>
+
+@*<html>
+<body>
+    <div class="error">
+        <h2 style="text-align:center">Your Score is : @ViewBag.Score</h2>
+    </div>
+    <br />
+    <div>
+        <h2 style="text-align:center">Fail</h2>
+    </div>
+    <br />
+    <div>
+        <h2 style="text-align:center">Better luck Next Time</h2>
+    </div>
+</body>
+</html>*@
+
+
+
+
+<section class="section section-top section-full bg-white hero-bg" style="padding-bottom:400px;padding-top:60px" >
+    <div class="hero-bg">
+
+        @*<h5 class="text-center mb-4 display-4 font-weight-bold" style="padding-top: 100px; padding-right: 420px; padding-left: 50px;">
+            Welcome Admin
+        </h5>*@
+        <div class="error">
+            <h3 style="text-align:center" class="text-center mb-4 display-4 font-weight-bold" > Your Score is : @ViewBag.Score </h3>
+        </div>
+        <br />
+        <div>
+            <h3 style="text-align:center" class="text-center mb-4 display-4 font-weight-bold" > Fail </h3>
+        </div>
+        <br />
+        <div>
+            <h3 style="text-align:center" class="text-center mb-4 display-4 font-weight-bold" > Better luck Next Time </h3>
+        </div>
+
+    </div>
+
+</section>
+

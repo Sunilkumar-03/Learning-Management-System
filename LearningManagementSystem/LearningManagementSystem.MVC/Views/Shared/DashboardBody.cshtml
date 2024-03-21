@@ -1,0 +1,187 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+@using Microsoft.AspNetCore.Http;
+
+@{var name = Context.Session.GetString("UserName").ToString();}
+
+<!DOCTYPE html>
+<!--
+* CoreUI - Free Bootstrap Admin Template
+* Copyright (c) 2018 creativeLabs Łukasz Holeczek
+* Licensed under MIT (https://coreui.io/license)
+-->
+
+<html lang="en">
+<head>
+    <base href="./">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta name="description" content="CoreUI - Open Source Bootstrap Admin Template">
+    <meta name="author" content="Łukasz Holeczek">
+    <meta name="keyword" content="Bootstrap,Admin,Template,Open,Source,jQuery,CSS,HTML,RWD,Dashboard">
+    <title>LMS User</title>
+    <style>
+        .sidebar {
+            background: #ffffff !important
+        }
+
+            .sidebar .nav-link {
+                color: black !important;
+            }
+
+                .sidebar .nav-link:hover {
+                    color: #fff !important;
+                    background: #2d1967 !important;
+                }
+
+        .body {
+            font-family: "Barlow", sans-serif !important;
+        }
+    </style>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <!----Dashboard photos links---->
+    <!-- Fontawseom Icon CSS -->
+    <link rel="stylesheet" href="~/assets/css/all.css">
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+    <!------------------------>
+    <!-- Icons-->
+
+
+    <link href="~/Layout/lib/flag-icon-css/css/flag-icon.min.css" rel="stylesheet">
+    <link href="~/Layout/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/Layout/lib/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <!-- Main styles for this application-->
+    <link href="~/Layout/CoreUI/css/style.css" rel="stylesheet">
+    <link href="~/Layout/CoreUI/vendors/pace-progress/css/pace.min.css" rel="stylesheet">
+
+</head>
+<body class="app header-fixed sidebar-fixed aside-menu-fixed sidebar-lg-show">
+    <header class="app-header navbar">
+        <button class="navbar-toggler sidebar-toggler d-lg-none mr-auto" type="button" data-toggle="sidebar-show">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#">
+            <img class="navbar-brand-full" src="~/Layout/img/LMS1.png" width="50" height="50" alt="CoreUI Logo">
+            <img class="navbar-brand-minimized" src="~/Layout/img/LMS1.png" width="50" height="50" alt="CoreUI Logo">
+        </a>
+        <button class="navbar-toggler sidebar-toggler d-md-down-none" type="button" data-toggle="sidebar-lg-show">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <ul class="nav navbar-nav ml-auto">
+            <li><h4>@name</h4></li>
+            <li class="nav-item dropdown">
+                <a class="nav-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    <img class="img-avatar" src="~/Layout/img/33-338711_circle-user-icon-blue-hd-png-download.png" alt="admin@bootstrapmaster.com">
+                </a>
+                <div class="dropdown-menu dropdown-menu-right">
+                    @*<span><i class="nav-icon icon-user"></i>@ViewBag.Name</span>*@
+                    <a class="dropdown-item" asp-action="Profile" asp-controller="User">
+                        <i class="nav-icon icon-settings"></i> Profile
+                    </a>
+                    <a class="dropdown-item" asp-action="LogOff" asp-controller="User">
+                        <i class="nav-icon icon-logout"></i> Logout
+                    </a>
+
+                </div>
+            </li>
+        </ul>
+
+    </header>
+    <div class="app-body">
+        <div class="sidebar">
+            <nav class="sidebar-nav">
+                <ul class="nav">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="UserHomePage" asp-controller="User">
+                            <i class="nav-icon icon-speedometer"></i> <strong>Dashboard</strong>
+
+                        </a>
+                    </li>
+
+
+
+                    <li class="nav-item nav-dropdown">
+                        <a class="nav-link nav-dropdown-toggle" href="#">
+                            <i class="nav-icon icon-book-open"></i> <strong>Courses</strong>
+                        </a>
+                        <ul class="nav-dropdown-items">
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="Search" asp-controller="User">
+                                    <i class="nav-icon icon-magnifier"></i> <strong> Search for a Course</strong>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="ViewAllCourses" asp-controller="User">
+                                    <i class="nav-icon icon-book-open"></i><strong>All Courses</strong>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="GetEnrolledCoursesWithStatus" asp-controller="User">
+                                    <i class="nav-icon icon-book-open"></i><strong>Enrolled Courses</strong>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item nav-dropdown">
+                        <a class="nav-link nav-dropdown-toggle" href="#">
+                            <i class="nav-icon icon-book-open"></i> <strong>Complaints</strong>
+                        </a>
+                        <ul class="nav-dropdown-items">
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="RaiseComplaint" asp-controller="User">
+                                    <i class="nav-icon icon-magnifier"></i> <strong> Raise Complaint </strong>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="GetComplaints" asp-controller="User">
+                                    <i class="nav-icon icon-book-open"></i><strong> View Complaints</strong>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="TestHomePage" asp-controller="User">
+                            <i class="nav-icon icon-puzzle"></i> <strong> Take Quiz</strong>
+                        </a>
+                    </li>
+                </ul>
+
+
+            </nav>
+            <button class="sidebar-minimizer brand-minimizer" type="button"></button>
+        </div>
+
+        <main class="main">
+            <!-- Breadcrumb-->
+
+            <div class="container-fluid">
+                @RenderBody()
+            </div>
+
+
+        </main>
+
+    </div>
+
+
+    <script src="~/Layout/lib/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
+    <script src="~/Layout/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/Layout/lib/pace-progress/js/pace.min.js"></script>
+    <script src="wwwwroot/Layout/lib/perfect-scrollbar/dist/perfect-scrollbar.min.js"></script>
+    <script src="~/Layout/lib/coreui/dist/js/coreui.min.js"></script>
+    <!-- Plugins and scripts required by this view-->
+    <script src="node_modules/chart.js/dist/Chart.min.js"></script>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

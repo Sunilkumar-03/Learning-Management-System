@@ -1,0 +1,220 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sign Up Form by Colorlib</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="css/style.css">
+    <link href="css/style2.css" rel="stylesheet">
+    <!-- Fontawseom Icon CSS -->
+    <link rel="stylesheet" href="assets/css/all.css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+
+    <script src="js/main.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script>
+        $(function () {
+
+            $('#user-form-link').click(function (e) {
+                $("#user-form").delay(100).fadeIn(100);
+                $("#admin-form").fadeOut(100);
+                $('#admin-form-link')/*removeClass('btn btn-block btn-ghost-primary');*/
+                $(this).addClass('btn btn-block btn-ghost-primary');
+                e.preventDefault();
+            });
+            $('#admin-form-link').click(function (e) {
+                $("#admin-form").delay(100).fadeIn(100);
+                $("#user-form").fadeOut(100);
+                $('#user-form-link')/*.removeClass('btn btn-block btn-ghost-primary');*/
+                $(this).addClass('btn btn-block btn-ghost-primary');
+                e.preventDefault();
+            });
+
+        })(jQuery);
+
+    </script>
+    <style>
+
+        #c1 {
+            max-width: 1600px;
+            width: 1500px;
+            height: 700px;
+            margin-top: 0px
+        }
+
+        #c2 {
+            padding: 0px;
+            border-radius: 0px;
+        }
+    </style>
+
+
+</head>
+<body>
+    <!-- NAVBAR
+    ================================================= -->
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-togglable  fixed-top " id="mainNav" >
+        <div class="container">
+
+            <!-- Brand -->
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <h2 style=" color: #20a8d8">Learning Management System</h2>
+            </a>
+
+            <!-- Toggler -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon-bar">
+                    <i class="fa fa-bars"></i>
+                </span>
+            </button>
+
+            <!-- Collapse -->
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <!-- Links -->
+                <ul class="navbar-nav ml-auto">
+                    <!--<li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#page-top">
+            Home
+        </a>
+    </li>-->
+                    <li class="nav-item">
+                        <a style="color:#20a8d8" href=" popups.html " class=" nav-link js-scroll-trigger">
+                            Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a style="color:#20a8d8" href=" SignIn.html " class=" nav-link js-scroll-trigger">
+                            Login
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a style="color:#20a8d8" class="nav-link js-scroll-trigger" href="Signup.html">
+                            Register
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+            <!-- / .navbar-collapse -->
+        </div>
+        <!-- / .container -->
+    </nav>
+
+    <div class="main" id="c2">
+
+        <!-- Sign up form -->
+        <!-- Sing in  Form -->
+        <section class="sign-in">
+            <div class="container" id="c1">
+                <div class="signin-content" style="padding-top:147px">
+                    <div class="signin-image">
+                        <figure><img src="images/signin-image.jpg" alt="sing up image"></figure>
+
+                    </div>
+
+                    <div class="signin-form">
+                        <div class="card-body">
+                            <div class="btn-group" role="group" aria-label="Basic example">
+                                <!--<button class="btn btn-secondary" type="button">User</button>&nbsp;
+                                <div class="col-6 col-sm-4 col-md-2 col-xl mb-3 mb-xl-0">
+                                    <button class="btn btn-block btn-primary" type="button">Primary</button>
+                                </div>
+                                <button class="btn btn-secondary" type="button">Admin</button><br />-->
+                                <div class="col-6 col-sm-4 col-md-2 col-xl mb-3 mb-xl-0">
+                                    <button id="user-form-link" class="btn btn-block btn-ghost-primary" type="button">User</button>
+                                </div>
+                                <div class="col-6 col-sm-4 col-md-2 col-xl mb-3 mb-xl-0">
+                                    <button id="admin-form-link" class="btn btn-block btn-ghost-primary" type="button">Admin</button>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!--<div class="d-flex">
+                            <div class="w-100">
+                                <a href="#" class="mb-4" id="user-form-link">User</a>
+                            </div>
+                            <div class="w-100">
+                                <a href="#" class="mb-6" id="admin-form-link">Admin</a>
+                            </div>
+                        </div>-->
+                        <!--<div>
+                            <a href="#" class="form-title">User</a>
+                        </div>
+                        <div>
+                            <a  href="#"class="form-title">Admin </a>
+                        </div>-->
+                        <div>
+
+                            <form action="#" method="POST" class="user-form" id="user-form" style="display:block" role="form">
+                                <div class="form-group">
+                                    <label for="your_name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                                    <input type="text" name="your_name" id="your_name" placeholder="User Name" />
+                                </div>
+                                <div class="form-group">
+                                    <label for="your_pass"><i class="zmdi zmdi-lock"></i></label>
+                                    <input type="password" name="your_pass" id="your_pass" placeholder=" User Password" />
+                                </div>
+                                <div class="form-group">
+                                    <input type="checkbox" name="remember-me" id="remember-me" class="agree-term" />
+                                    <label for="remember-me" class="label-agree-term"><span><span></span></span>Remember me</label>
+                                </div>
+                                <div class="form-group form-button">
+                                    <input type="submit" name="signin" id="signin" class="form-submit" value="Log in" />
+                                </div>
+
+
+                                <div>
+                                    <a href="Signup.html" style="text-align:left" class="signup-image-link">Create an account</a>
+                                </div>
+
+                            </form>
+
+
+                            <form action="#" method="POST" class="register-form" id="admin-form" style="display:none" role="form">
+                                <div class="form-group">
+                                    <label for="your_name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                                    <input type="text" name="your_name" id="your_name" placeholder="Admin Username" />
+                                </div>
+                                <div class="form-group">
+                                    <label for="your_pass"><i class="zmdi zmdi-lock"></i></label>
+                                    <input type="password" name="your_pass" id="your_pass" placeholder="Admin Password" />
+                                </div>
+                                <div class="form-group">
+                                    <input type="checkbox" name="remember-me" id="remember-me" class="agree-term" />
+                                    <label for="remember-me" class="label-agree-term"><span><span></span></span>Remember me</label>
+                                </div>
+                                <div class="form-group form-button">
+                                    <input type="submit" name="signin" id="signin" class="form-submit" value="Log in" />
+                                </div>
+                            </form>
+                        </div>
+                        <!--<div class="social-login">
+                            <span class="social-label">Or login with</span>
+                            <ul class="socials">
+                                <li><a href="#"><i class="display-flex-center zmdi zmdi-facebook"></i></a></li>
+                                <li><a href="#"><i class="display-flex-center zmdi zmdi-twitter"></i></a></li>
+                                <li><a href="#"><i class="display-flex-center zmdi zmdi-google"></i></a></li>
+                            </ul>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- JS -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>

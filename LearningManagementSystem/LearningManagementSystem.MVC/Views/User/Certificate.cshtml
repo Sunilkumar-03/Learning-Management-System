@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewData["Title"] = "Certificate";
+    Layout = "~/Views/Shared/DashboardBody.cshtml";
+}
+@{ 
+    var Date = TempData["Date"];
+}
+<style>
+    .hero-image {
+        background-image: url("/Layout/img/frame.png");
+        background-color: #cccccc;
+        height: 450px;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet">
+<title>Cerificate</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.min.js"></script>
+
+
+
+
+<div class="container hero-image" style="width: 750px; height: 450px; padding: 20px; text-align: center;">
+    <br /><br /><br />
+    <span style="font-size:50px; font-weight:bold; font-family:Parisienne">Certificate of Completion</span>
+    <br />
+    <span style="font-size:25px;font-family:Parisienne">This is to certify that</span>
+    <span style="font-size:30px;"><b>  @ViewBag.Name</b></span><br />
+    <span style="font-size:25px; font-family:Parisienne">has completed the course</span> <br />
+    <span style="font-size:30px"><b>  @ViewBag.CourseName</b></span>
+    <span style="font-size:20px;font-family:Parisienne">With Score Of </span><b>  @ViewBag.Score</b><br />
+    <span style="font-size:20px;font-family:Parisienne">Dated</span><b>  @Date</b>
+</div>
+
+
+
+<br>
+<br>
+<center><input type="button" id="create_pdf" value="Generate PDF"></center>
+
+<script>(function () {
+        var
+            form = $('.container'),
+            cache_width = 700, //form.width(),
+            a4 = [595.28, 841.89]; // for a4 size paper width and height
+
+        $('#create_pdf').on('click', function () {
+            $('body').scrollTop(0);
+            createPDF();
+        });
+        //create pdf  s
+        function createPDF() {
+            getCanvas().then(function (canvas) {
+                var
+                    img = canvas.toDataURL("image/png"),
+                    doc = new jsPDF({
+                        unit: 'px',
+                        format: 'a4'
+                    });
+                doc.addImage(img, 'JPEG', 1.2, 1);
+                doc.save('certificate-creation.pdf');
+                form.width(cache_width);
+            });
+        }
+
+        // create canvas object
+        function getCanvas() {
+            form.width((a4[0] * 1.33333) - 80).css('max-width', 'none');
+            return html2canvas(form, {
+                imageTimeout: 2000,
+                removeContainer: true
+            });
+        }
+
+    }());</script>
+

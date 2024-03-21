@@ -1,0 +1,210 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+    <base href="./">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta name="description" content="CoreUI - Open Source Bootstrap Admin Template">
+    <meta name="author" content="Łukasz Holeczek">
+    <meta name="keyword" content="Bootstrap,Admin,Template,Open,Source,jQuery,CSS,HTML,RWD,Dashboard">
+    <title>LMS Admin</title>
+    <style>
+        .sidebar{
+            background:#ffffff!important
+        }
+            .sidebar .nav-link {
+                color:black!important;
+            }
+                .sidebar .nav-link:hover {
+                    color: #fff!important;
+                    background: #2d1967 !important;
+                }
+
+        .body {
+            font-family: "Barlow", sans-serif!important;
+        }
+
+    </style>
+    <!----Dashboard photos links---->
+    <!-- Fontawseom Icon CSS -->
+    <link rel="stylesheet" href="~/assets/css/all.css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+    <!------------------------>
+    <!-- Icons-->
+
+
+    <link href="~/Layout/lib/flag-icon-css/css/flag-icon.min.css" rel="stylesheet">
+    <link href="~/Layout/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/Layout/lib/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <!-- Main styles for this application-->
+    <link href="~/Layout/CoreUI/css/style.css" rel="stylesheet">
+    <link href="~/Layout/CoreUI/vendors/pace-progress/css/pace.min.css" rel="stylesheet">
+   
+</head>
+<body class="app header-fixed sidebar-fixed aside-menu-fixed sidebar-lg-show">
+    <header class="app-header navbar">
+        <button class="navbar-toggler sidebar-toggler d-lg-none mr-auto" type="button" data-toggle="sidebar-show">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#">
+            <img class="navbar-brand-full" src="~/Layout/img/LMS1.png" width="50" height="50" alt="CoreUI Logo">
+            <img class="navbar-brand-minimized" src="~/Layout/img/LMS1.png" width="50" height="50" alt="CoreUI Logo">
+        </a>
+        <button class="navbar-toggler sidebar-toggler d-md-down-none" type="button" data-toggle="sidebar-lg-show">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+       
+        <ul class="nav navbar-nav ml-auto">
+          <li><h4>Admin</h4></li>
+            <li class="nav-item dropdown">
+                <a class="nav-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    <img class="img-avatar" src="~/Layout/img/33-338711_circle-user-icon-blue-hd-png-download.png" alt="admin@bootstrapmaster.com">
+                </a>
+                <div class="dropdown-menu dropdown-menu-right">
+
+                    @* ADMIN Logout *@
+                    <a class="dropdown-item" asp-action="LogOff" asp-controller="Admin">
+                        <br>
+                        <i class="nav-icon icon-logout"></i>Logout
+                    </a>
+
+                </div>
+            </li>
+        </ul>
+       
+    </header>
+    <div class="app-body">
+        <div class="sidebar">
+            <nav class="sidebar-nav">
+                <ul class="nav">
+                    <li class="nav-item">
+                        <h5 class="nav-link" style="pointer-events:none">
+                            <i class="nav-icon icon-speedometer"></i> <strong>Dashboard</strong>
+                            <!--<span class="badge badge-primary">NEW</span>-->
+                        </h5>
+                    </li>
+                  
+                    <li class="nav-item nav-dropdown">
+                        <a class="nav-link nav-dropdown-toggle" href="#">
+                            <i class="nav-icon icon-people"></i> <strong>Users</strong>
+                        </a>
+
+                        @*Admin DashBoard action links, below*@
+
+                    <ul class="nav-dropdown-items">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="AddUser" asp-controller="Admin">
+                                <i class="nav-icon icon-plus"></i> <strong>Add User</strong>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="ToDeleteUser" asp-controller="Admin">
+                                <i class="nav-icon icon-minus"></i> <strong>Delete User</strong>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="GetAllUsers" asp-controller="Admin">
+                                <i class="nav-icon icon-people"></i> <strong>All Users</strong>
+                            </a>
+                        </li>
+                    </ul>
+                    </li>
+                    <li class="nav-item nav-dropdown">
+                        <a class="nav-link nav-dropdown-toggle" href="#">
+                            <i class="nav-icon icon-book-open"></i> <strong>Courses</strong>
+                        </a>
+                        <ul class="nav-dropdown-items">
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="AddCourse" asp-controller="course">
+                                    <i class="nav-icon icon-plus"></i> <strong>Add Course</strong>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="ToDeleteCourse" asp-controller="Course">
+                                    <i class="nav-icon icon-minus"></i> <strong>Delete Course</strong>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="ToUpdateCourse" asp-controller="Course">
+                                    <i class="nav-icon icon-check"></i> <strong>Update Course</strong>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="GetAllCourses" asp-controller="Course">
+                                    <i class="nav-icon icon-check"></i> <strong>All Courses</strong>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                           
+                         
+                  
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="GetAllUserComplaints" asp-controller="Admin">
+                            <i class="nav-icon icon-pencil"></i> <strong>View Complaint</strong>
+                        </a>
+                    </li>
+                    @*<li class="nav-item">
+                        <a class="nav-link" href="typography.html">
+                            <i class="nav-icon icon-people"></i> <strong>View User Status</strong>
+                        </a>
+                    </li>*@
+                    <li class="nav-item nav-dropdown">
+                        <a class="nav-link nav-dropdown-toggle" href="#">
+                            <i class="nav-icon icon-book-open"></i> <strong>View Reports</strong>
+                        </a>
+                        <ul class="nav-dropdown-items">
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="CourseStatusReports" asp-controller="Admin">
+                                    <i class="nav-icon icon-magnifier"></i> <strong>Course Status </strong>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-action="CourseCompletionStatusReports" asp-controller="Admin">
+                                    <i class="nav-icon icon-magnifier"></i> <strong>Course Completion</strong>
+                                </a>
+                            </li>                            
+                        </ul>
+                    </li>
+                       
+<li class="divider"></li>
+                   
+                </ul>
+            </nav>
+            <button class="sidebar-minimizer brand-minimizer" type="button"></button>
+        </div>
+        <main class="main">
+           
+            <div class="container-fluid">
+                @RenderBody()
+            </div>
+          
+        </main>
+      
+    </div>
+  
+
+    <script src="~/Layout/lib/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
+    <script src="~/Layout/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/Layout/lib/pace-progress/js/pace.min.js"></script>
+    <script src="wwwwroot/Layout/lib/perfect-scrollbar/dist/perfect-scrollbar.min.js"></script>
+    <script src="~/Layout/lib/coreui/dist/js/coreui.min.js"></script>
+    <!-- Plugins and scripts required by this view-->
+    <script src="node_modules/chart.js/dist/Chart.min.js"></script>
+  
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116B7029-973D-4973-8C7F-CA218DA06140}|LearningManagementSystem.MVC\\LearningManagementSystem.MVC.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116B7029-973D-4973-8C7F-CA218DA06140}|LearningManagementSystem.MVC\\LearningManagementSystem.MVC.csproj|solutionrelative:learningmanagementsystem.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\entities\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\entities\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|c:\\users\\sanib\\documents\\.net framework\\projects\\learning management system\\learningmanagementsystem\\learningmanagementsystem_api\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9832140E-8E77-4E39-9C92-EC6BA8D4FE10}|LearningManagementSystem_API\\LearningManagementSystem.API.csproj|solutionrelative:learningmanagementsystem_api\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem.MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem.MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem.MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LearningManagementSystem.MVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAALMBAAAAAAAAAAArwMABAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:50:11.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\appsettings.json",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\appsettings.json",
+              "RelativeToolTip": "LearningManagementSystem_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T04:52:49.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LearningManagementSystem_API\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:49:04.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "LearningManagementSystem_API\\Repositories\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:49:00.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "LearningManagementSystem_API\\Repositories\\AdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:48:39.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Entities\\User.cs",
+              "RelativeToolTip": "LearningManagementSystem_API\\Entities\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:48:27.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Entities\\Complaint.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\Entities\\Complaint.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Entities\\Complaint.cs",
+              "RelativeToolTip": "LearningManagementSystem_API\\Entities\\Complaint.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:48:17.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LearningManagementSystem_API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:48:02.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "LearningManagementSystem_API\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:48:01.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LearningManagementSystem_API\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:47:39.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem_API\\Context\\DBContext.cs",
+              "ToolTip": "C:\\Users\\sanib\\Documents\\.Net Framework\\Projects\\Learning Management System\\LearningManagementSystem\\LearningManagementSystem_API\\Context\\DBContext.cs",
+              "RelativeToolTip": "LearningManagementSystem_API\\Context\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:46:27.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

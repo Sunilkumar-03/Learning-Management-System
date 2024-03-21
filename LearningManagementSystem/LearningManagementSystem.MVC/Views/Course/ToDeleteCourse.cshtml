@@ -1,0 +1,82 @@
+﻿@model LearningManagementSystem.MVC.Models.Course
+
+@{
+    ViewData["Title"] = "ToDeleteCourse";
+    Layout = "~/Views/Shared/AdminDashboardBody.cshtml";
+}
+
+<form asp-action="DeleteCourse" asp-controller="Course" method="post">
+    <br />
+    <br />
+    <b>Enter Course Name To Search :</b>
+    <br />
+    <br />
+    <input type="text" name="name" id="SearchCourse" placeholder="Course Name" />&nbsp;&nbsp;
+    <input type="submit" value="Search" class="btn btn-danger" />
+    <span class="text-danger">@ViewBag.ErrorMessage</span>
+</form>
+
+@{
+    var data = TempData["ErrorMessage"];
+}
+
+@if (data != null)
+{
+    <div>
+        <h4>Course</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CourseID)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CourseID)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CourseName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CourseName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CourseDuration)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CourseDuration)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CourseContent)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CourseContent)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CourseQuiz)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CourseQuiz)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CourseImage)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CourseImage)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CourseTutor)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CourseTutor)
+            </dd>
+        </dl>
+
+        <div id="deleteLink">
+            @Html.ActionLink("Delete", "ConfirmDeleteCourse", new { Id = Model.CourseID })
+        </div>
+    </div>
+
+}
+else
+{
+    <p class="text-danger">@data</p>
+}
